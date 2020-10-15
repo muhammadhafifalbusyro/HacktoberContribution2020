@@ -3,3 +3,4 @@ rider
 lancer
 assasin
 berseker
+archer
