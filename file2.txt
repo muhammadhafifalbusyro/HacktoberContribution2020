@@ -1,2 +1,4 @@
 caster
 rider
+lancer
+assasin
