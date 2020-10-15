@@ -2,3 +2,4 @@ caster
 rider
 lancer
 assasin
+berseker
