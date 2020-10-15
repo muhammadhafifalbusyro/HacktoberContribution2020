@@ -1,0 +1,2 @@
+hallo word
+document.write (hallo word)
