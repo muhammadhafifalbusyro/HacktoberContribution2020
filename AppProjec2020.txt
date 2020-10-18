@@ -1,3 +1,5 @@
 @HackToberContribution2020
 
 pelajaran push and contribution hacktoberfetch2020
+
+teru berusaha menjadi lebih baik dari saat ini
