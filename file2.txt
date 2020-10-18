@@ -2,3 +2,5 @@ caster
 rider
 lancer
 assasin
+berseker
+archer
